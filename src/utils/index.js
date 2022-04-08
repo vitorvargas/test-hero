@@ -1,0 +1,1 @@
+export { getMd5 } from './md5';
